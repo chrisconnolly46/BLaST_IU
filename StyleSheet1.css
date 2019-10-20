@@ -1,0 +1,64 @@
+﻿body {
+    background-color: black;
+    color: snow;  
+    float:left;
+    text-align:center;
+}
+
+h1 {
+    font-family: 'Verdana', 'Arial', monospace;
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    margin:10px;
+    letter-spacing: 0.05em;
+    font-size: 175%;
+    width: 100%;
+    padding-top: 20px;
+    border-bottom: 3px solid;
+    padding-bottom: 10px;
+}
+
+div {
+    font-family: 'Arial Rounded MT', 'Courier New', monospace;
+    float: left;
+    text-align: left;
+    width: 400px;
+}
+
+#btnSubmit {
+    background-color: green;
+    color: whitesmoke;
+    float: right;
+    margin:5px
+}
+
+#btnSubmit:hover{
+    background-color: blue;
+    color: whitesmoke;
+    float: right;
+    margin: 5px
+}
+
+#btnExport {
+    background-color: darkolivegreen;
+    color: whitesmoke;
+    margin:5px;
+    float:right;
+}
+
+#btnExport:hover {
+    background-color: blue;
+    color: whitesmoke;
+    margin: 5px;
+    float: right;
+}
+
+.title{
+    float:left;
+    width:150px;
+    text-align:right;
+    padding-right:30px;
+    color:aqua;
+    padding-left: 40px;
+}
